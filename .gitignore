@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+../.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# pytest
+.pytest_cache/
+.cache/
+.tox/
+.nox/
+coverage.xml
+htmlcov/
+.coverage*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# VS Code Python settings
+.settings/
