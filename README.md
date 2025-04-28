@@ -93,6 +93,7 @@ phonex/
 │   └── test_extractor.py 
 ├── .gitignore
 ├── README.md
+├── LICENSE
 ├── requirements.txt
 
 ```
